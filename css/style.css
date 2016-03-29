@@ -1,0 +1,22 @@
+html {
+  text-align: center;
+  line-style-type: none;
+}
+
+
+blockquote {
+  font-family: monospace;
+  font-size: 80px;
+  text-align: center;
+}
+
+ul {
+  text-decoration: none;
+  line-style-type: none;
+}
+
+.nav li {
+  float: left;
+  padding: 0px;
+  margin: 0px;
+}
